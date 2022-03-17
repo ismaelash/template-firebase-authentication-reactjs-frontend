@@ -5,6 +5,8 @@
 ![Demo3](https://github.com/ismaelash/template-firebase-authentication-reactjs-frontend/raw/main/3.png "User signup alert")
 ![Demo4](https://github.com/ismaelash/template-firebase-authentication-reactjs-frontend/raw/main/4.png "User authenticated")
 
+## Script important
+https://github.com/ismaelash/template-firebase-authentication-reactjs-frontend/blob/main/src/components/firebaseController.js
 
 # Getting Started with Create React App
 
