@@ -1,3 +1,11 @@
+# Demo
+
+![Demo1](https://github.com/ismaelash/template-firebase-authentication-reactjs-frontend/raw/main/1.png "Login page")
+![Demo2](https://github.com/ismaelash/template-firebase-authentication-reactjs-frontend/raw/main/2.png "Error message")
+![Demo3](https://github.com/ismaelash/template-firebase-authentication-reactjs-frontend/raw/main/3.png "User signup alert")
+![Demo4](https://github.com/ismaelash/template-firebase-authentication-reactjs-frontend/raw/main/4.png "User authenticated")
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
